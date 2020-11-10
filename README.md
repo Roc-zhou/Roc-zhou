@@ -1,4 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roc-zhou&layout=compact" />
+
 ### Hi there 👋
+
+### Welcome
 
 <!--
 **Roc-zhou/Roc-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
