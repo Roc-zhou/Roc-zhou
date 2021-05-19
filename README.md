@@ -4,9 +4,10 @@
 
 ### Welcome 
 
-🌱 I’m currently learning GO
+🌱 I’m currently learning Golang
 
 ### 📓The Latest Record
+
 <!-- start -->
 <!-- end -->
 
