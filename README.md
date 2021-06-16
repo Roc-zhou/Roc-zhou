@@ -6,9 +6,6 @@
 [My Blog](https://github.com/Roc-zhou/blog/issues)
 
 🌱 I’m currently learning Golang
-
-### 📓The Latest Record
-
 <!-- start -->
 <!-- end -->
 
