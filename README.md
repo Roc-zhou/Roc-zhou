@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roc-zhou&layout=compact" />
+<img width="520" align="right" src="./computer.gif" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roc-zhou&layout=compact" /> -->
 
 ### Hi there 👋
 
