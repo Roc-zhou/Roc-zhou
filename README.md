@@ -1,4 +1,4 @@
-<img width="50%" align="right" src="https://github.com/Roc-zhou/Roc-zhou/blob/main/warlk.gif" />
+<img src="https://github.com/Roc-zhou/Roc-zhou/blob/main/warlk.gif" />
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roc-zhou&layout=compact" /> -->
 
 ### Hi there 👋
