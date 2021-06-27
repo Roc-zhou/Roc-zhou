@@ -9,12 +9,13 @@
 
 📚 最新文章
 <!-- start -->
+- [Go中fmt包的各种使用](https://github.com/Roc-zhou/blog/issues/19)
 - [Vue记录](https://github.com/Roc-zhou/blog/issues/18)
 - [关于node 日志记录操作！pm2-logrotate-ext](https://github.com/Roc-zhou/blog/issues/17)
 - [网页变灰效果实现](https://github.com/Roc-zhou/blog/issues/16)
 - [简单理解浅拷贝和深拷贝](https://github.com/Roc-zhou/blog/issues/12)
-- [如何发布一个 npm 包](https://github.com/Roc-zhou/blog/issues/11)
 <!-- end -->
+
 
 
 <img src="https://github.com/Roc-zhou/Roc-zhou/blob/main/profile-summary-card-output/default/0-profile-details.svg" />
