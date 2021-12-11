@@ -3,9 +3,10 @@
 
 ### Hi there 👋
 ### Welcome 
-我是一名 **前端开发工程师**。使用 **Issues** 来记录自己的博客 [My Blog](https://github.com/Roc-zhou/blog/issues)，为什么最后选择了issues🌝 ？浏览技术文章的时候偶然发现原来github上使用issues来记录东西是真的好，包含标签、评论常用功能都很强大👍 还可以使用Action。所以切换到了issues。
+我是一名 **前端开发工程师**。使用 **Issues** 来记录自己的博客 [My Blog](https://github.com/Roc-zhou/blog/issues)
+<!-- ，为什么最后选择了issues🌝 ？浏览技术文章的时候偶然发现原来github上使用issues来记录东西是真的好，包含标签、评论常用功能都很强大👍 还可以使用Action。所以切换到了issues。
 除了工作，还喜欢 DIY、外设（科技爱好者）💰。闲时喜欢看下电影，放松下，享受生活。❤️
-🌱 目前正在学习Golang 🌱
+🌱 目前正在学习Golang 🌱 -->
 
 📚 最新文章
 <!-- start -->
