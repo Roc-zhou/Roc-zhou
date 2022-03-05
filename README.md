@@ -10,12 +10,13 @@
 
 📚 最新文章
 <!-- start -->
+- [开启gzip压缩](https://github.com/Roc-zhou/roc-zhou.github.io/issues/39)
+- [最常用数组去重方法](https://github.com/Roc-zhou/roc-zhou.github.io/issues/38)
 - [首页](https://github.com/Roc-zhou/roc-zhou.github.io/issues/37)
 - [git命令记录](https://github.com/Roc-zhou/roc-zhou.github.io/issues/36)
 - [浏览器存储方式](https://github.com/Roc-zhou/roc-zhou.github.io/issues/35)
-- [浅拷贝和深拷贝](https://github.com/Roc-zhou/roc-zhou.github.io/issues/34)
-- [网页变灰](https://github.com/Roc-zhou/roc-zhou.github.io/issues/33)
 <!-- end -->
+
 
 
 
