@@ -10,12 +10,13 @@
 
 📚 最新文章
 <!-- start -->
+- [git命令记录](https://github.com/Roc-zhou/roc-zhou.github.io/issues/36)
 - [浏览器存储方式](https://github.com/Roc-zhou/roc-zhou.github.io/issues/35)
 - [浅拷贝和深拷贝](https://github.com/Roc-zhou/roc-zhou.github.io/issues/34)
 - [网页变灰](https://github.com/Roc-zhou/roc-zhou.github.io/issues/33)
 - [网页变灰](https://github.com/Roc-zhou/roc-zhou.github.io/issues/32)
-- [Git 命令记录](https://github.com/Roc-zhou/roc-zhou.github.io/issues/23)
 <!-- end -->
+
 
 
 
