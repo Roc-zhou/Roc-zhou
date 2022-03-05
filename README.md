@@ -10,12 +10,13 @@
 
 📚 最新文章
 <!-- start -->
+- [Go项目各种环境打包](https://github.com/Roc-zhou/roc-zhou.github.io/issues/44)
+- [fmt包的使用](https://github.com/Roc-zhou/roc-zhou.github.io/issues/43)
 - [指针](https://github.com/Roc-zhou/roc-zhou.github.io/issues/42)
 - [发布npm包](https://github.com/Roc-zhou/roc-zhou.github.io/issues/41)
 - [node日志](https://github.com/Roc-zhou/roc-zhou.github.io/issues/40)
-- [开启gzip压缩](https://github.com/Roc-zhou/roc-zhou.github.io/issues/39)
-- [最常用数组去重方法](https://github.com/Roc-zhou/roc-zhou.github.io/issues/38)
 <!-- end -->
+
 
 
 
