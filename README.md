@@ -10,12 +10,13 @@
 
 📚 最新文章
 <!-- start -->
+- [shell脚本运行](https://github.com/Roc-zhou/roc-zhou.github.io/issues/48)
 - [scp服务器传输文件](https://github.com/Roc-zhou/roc-zhou.github.io/issues/47)
 - [使用docker安装nginx并打开html](https://github.com/Roc-zhou/roc-zhou.github.io/issues/46)
 - [Git的使用以及操作](https://github.com/Roc-zhou/roc-zhou.github.io/issues/45)
 - [Go项目各种环境打包](https://github.com/Roc-zhou/roc-zhou.github.io/issues/44)
-- [fmt包的使用](https://github.com/Roc-zhou/roc-zhou.github.io/issues/43)
 <!-- end -->
+
 
 
 
